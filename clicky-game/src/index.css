@@ -10,6 +10,9 @@ body,
   margin: 0;
   height: 100%;
   font-family: 'Poppins', sans-serif;
+  color: rgb(95, 163, 241);
+  font-size: 23px;
+  -webkit-text-stroke: 0.5px rgb(145, 145, 145);
 }
 
 .title {
