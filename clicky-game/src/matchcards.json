@@ -1,61 +1,61 @@
 [{
         "id": 1,
-        "image": "./assets/images/antman.jpg",
+        "image": "./assets/images/lisa.png",
         "clicked": false
     },
     {
         "id": 2,
-        "image": "./assets/images/forceAwakens.jpg",
+        "image": "./assets/images/bart.png",
         "clicked": false
     },
     {
         "id": 3,
-        "image": "./assets/images/ghostbusters.jpg",
+        "image": "./assets/images/homer.jpg",
         "clicked": false
     },
     {
         "id": 4,
-        "image": "./assets/images/guardians.jpg",
+        "image": "./assets/images/marge.png",
         "clicked": false
     },
     {
         "id": 5,
-        "image": "./assets/images/hangover.jpg",
+        "image": "./assets/images/moe.png",
         "clicked": false
     },
     {
         "id": 6,
-        "image": "./assets/images/harryPotter.jpg",
+        "image": "./assets/images/skinner.png",
         "clicked": false
     },
     {
         "id": 7,
-        "image": "./assets/images/jaws.jpg",
+        "image": "./assets/images/flanders.png",
         "clicked": false
     },
     {
         "id": 8,
-        "image": "./assets/images/maleficent.jpg",
+        "image": "./assets/images/ralph.png",
         "clicked": false
     },
     {
         "id": 9,
-        "image": "./assets/images/pirates.jpg",
+        "image": "./assets/images/milhouse.png",
         "clicked": false
     },
     {
         "id": 10,
-        "image": "./assets/images/skyfall.jpg",
+        "image": "./assets/images/burns.png",
         "clicked": false
     },
     {
         "id": 11,
-        "image": "./assets/images/spiderman.jpg",
+        "image": "./assets/images/wiggum.png",
         "clicked": false
     },
     {
         "id": 12,
-        "image": "./assets/images/stepBrothers.jpg",
+        "image": "./assets/images/apu.png",
         "clicked": false
     }
 ]
