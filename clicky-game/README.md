@@ -10,8 +10,6 @@ The goal was to showcase my skills in react by building a basic react app that h
 
 The design of the application uses Bootstrap 4 as a framework.  It is intentionally designed to be responsive to your device.  The colors used give the user a welcoming feeling with less strain on the eyes. 
 
-### How to Use
-
 ### Technologies Used 
 * React
 * Heroku Deployment 
