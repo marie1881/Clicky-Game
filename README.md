@@ -14,4 +14,3 @@ The design of the application uses Bootstrap 4 as a framework.  It is intentiona
 
 ### Technologies Used 
 * React
-* Heroku Deployment 
