@@ -7,7 +7,7 @@ import "./App.css";
 
 let correctGuesses = 0;
 let bestScore = 0;
-let clickMessage = "Click on a movie poster to gain points! Click on the same one twice and you lose!";
+let clickMessage = "Click on a simpsons charcter to gain points! Click on the same one twice and you lose!";
 
 class App extends Component {
     
@@ -99,7 +99,7 @@ class App extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>Clickity Clack Movie Game</Title>
+                <Title>The Simpsons Clicky Game</Title>
         
                 <h3 className="scoreSummary">
                     {this.state.clickMessage}

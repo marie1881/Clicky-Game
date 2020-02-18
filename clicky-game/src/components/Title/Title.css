@@ -1,5 +1,8 @@
 .title {
     width: 100%;
     text-align: center;
-    color: black;
+    color: rgb(241, 214, 91);
+    font-size: 70px;
+    -webkit-text-stroke: 1px black;
+    margin-bottom: 20px;
 }
